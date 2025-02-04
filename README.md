@@ -1,3 +1,3 @@
 # apnacollege-demo
-my first repository
+This is my first repository.
 Author - Aqdas Shahid
